@@ -1,0 +1,4 @@
+
+.vscode/
+ekabadi-backend/target/
+ekabadi-backend/src/main/resources/application.properties
